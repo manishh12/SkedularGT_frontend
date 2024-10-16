@@ -5,6 +5,21 @@ Manish Kumar Gupta: IIT2021074
 ## Description
 This is the frontend application for the Skedulargt project, a scheduling system for sports facilities. It's built with React and Vite, featuring a dynamic scheduling interface, user management, and booking functionality.
 
+
+## Deployed Applications
+- Frontend: https://skedular-gt-frontend.vercel.app/
+- Backend: https://skedulargt.onrender.com/
+## Images
+![image](https://github.com/user-attachments/assets/769b7aab-e27b-4f31-a50a-f7786e410ebe)
+
+![image](https://github.com/user-attachments/assets/98518818-ae5b-40de-8564-b93916d110e1)
+
+![image](https://github.com/user-attachments/assets/3b67bb6b-2e68-4deb-ad53-1ad0dd6269cd)
+![image](https://github.com/user-attachments/assets/4a9a2691-e9f6-4740-85ac-e4c4c61bba3b)
+![image](https://github.com/user-attachments/assets/c98f377b-5ebe-4442-a45d-07969ab4ccb1)
+![image](https://github.com/user-attachments/assets/249f8e1b-5ad3-4b47-80fa-b7ceb9206458)
+
+
 ## Prerequisites
 To run this project, you need to have the following installed:
 - Node.js (version compatible with React 18.3.1)
