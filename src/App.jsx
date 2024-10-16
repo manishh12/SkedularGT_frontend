@@ -1,7 +1,18 @@
-export default function App() {
+import ScheduleTable from "./components/ScheduleTable";
+import Sidebar from "./components/Sidebar";
+import { ToastContainer } from 'react-toastify';
+
+
+const App = () => {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
-  )
-}
+    <div className="flex h-screen">
+      <Sidebar />
+      <main className="flex-1 p-6 bg-gray-50">
+        <ScheduleTable />
+      </main>
+      
+    </div>
+  );
+};
+
+export default App;
